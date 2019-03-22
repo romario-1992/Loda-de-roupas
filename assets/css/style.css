@@ -112,3 +112,14 @@ section .center {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+/***** Rodapé ******/
+
+footer {
+	background-color: #347ABA;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	color: #FFF;
+	margin-top: 40px;
+}
