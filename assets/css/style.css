@@ -1,0 +1,55 @@
+*{
+	font-family: Arial;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+/******	HEADER *******/
+
+header {
+	height: 50px;
+	background-color: #353535;
+}
+header .center {
+	width: 1000px;
+	margin: auto;
+	color: #FFF;
+}
+
+.logo {
+	float: left;
+	font-size: 24px;
+	line-height: 50px;
+}
+.menu {
+	float: right;
+}
+nav ul,
+nav li {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+nav li {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 50px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+nav a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+nav li:hover {
+	background-color: #3480C1;
+
+
+		
+}
