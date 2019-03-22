@@ -48,8 +48,50 @@ nav a {
 }
 
 nav li:hover {
-	background-color: #3480C1;
-
-
-		
+	background-color: #3480C1;		
 }
+
+/****** Banner *******/
+
+#banner{
+	height:300px;
+	background-color:#347aba;
+} 
+section .center {
+	width: 1000px;
+	margin: auto;
+}
+.banner_esquerda {
+	float: left;
+}
+.banner_direita {
+	float: right;
+}
+.banner_direita img{
+	margin-right: 55px;
+}
+.frase1 {
+	font-size: 48px;
+	color: #FFFFFF;
+	margin-top: 60px;
+}
+.frase2{
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.botao a {
+	text-decoration: none;
+	color: #000;
+}
+ .botao {
+	background-color: #FFC001;	
+	width: 282px;
+	height:56px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	margin-top: 20px;
+	cursor:pointer;
+	border-radius: 5px;
+} 
